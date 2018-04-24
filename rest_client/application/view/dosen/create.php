@@ -5,7 +5,7 @@
     <tr>
 <td>Nama Dosen</td><td><?php echo form_input('nm_dosen');?></td></tr>
     <tr>
-<td>Id Jurusan</td><td><?php echo form_input('jurusan');?>  </td></tr>
+<td>Id Jurusan</td><td><?php echo form_input('id_jurusan');?>  </td></tr>
     <tr>
 <td>Alamat</td><td><?php echo form_input('alamat');?></td></tr>
     <tr><td colspan="2">
